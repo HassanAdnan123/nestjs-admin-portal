@@ -14,7 +14,7 @@ A boilerplate admin portal built on react and nest.
 ## Installing Nest after Node Package Manager
 
 ```bash
-$ npm i -g @nestjs/cli
+$ npm i -g @nestjs/cli @nestjs/typeorm typeorm
 ```
 ## Pre-requisite for first run
 
