@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/HassanAdnan123/nestjs-admin-portal/master/images/ys-portal-logo-transparent.png" alt="YS Portal Logo"/>
+<img src="https://raw.githubusercontent.com/HassanAdnan123/nestjs-admin-portal/master/images/ys-portal-logo-bg.png" alt="YS Portal Logo"/>
 </p>
 
 
